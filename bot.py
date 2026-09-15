@@ -6,7 +6,7 @@ from google import genai
 
 # Токены
 TELEGRAM_TOKEN = "8605250509:AAFFfCEwfLxgOd5sX-wcofGfpVyphP_XR7I"
-GEMINI_API_KEY = "AQ.Ab8RN6ITNdA7MsZGyUesdmJNsk5YBA1t_EgN7a6zcLOm62spoA"
+GEMINI_API_KEY = "AQ.Ab8RN6Jd7wpV88Kky13gucDlk7zRZKEx5KDBb8U1nhdPgcQovA"
 
 # Инициализация клиентов
 bot = Bot(token=TELEGRAM_TOKEN)
